@@ -1,0 +1,25 @@
+{
+  "name": "express_project",
+  "version": "1.0.0",
+  "description": "cart mini-project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunnyvrvr/Nodejs-shopping-cart.git"
+  },
+  "author": "Jung Sunjin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunnyvrvr/Nodejs-shopping-cart/issues"
+  },
+  "homepage": "https://github.com/sunnyvrvr/Nodejs-shopping-cart#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "path": "^0.12.7"
+  }
+}
